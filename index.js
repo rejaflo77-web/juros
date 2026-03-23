@@ -1,3 +1,4 @@
+
 import entradaDados from 'readline-sync';
 
 console.log("------ Aplicação de Juros ------\n");
